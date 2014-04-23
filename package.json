@@ -20,6 +20,6 @@
     "grunt-githooks": "~0.3.1",
     "grunt-trimtrailingspaces": "~0.4.0",
     "clean-css": "~2.1.8",
-    "grunt-available-tasks": "~0.4.5"
+    "grunt-available-tasks": "~0.5.0"
   }
 }
