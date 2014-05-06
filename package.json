@@ -16,10 +16,12 @@
     "grunt-contrib-csslint": "~0.2.0",
     "grunt-contrib-cssmin": "~0.9.0",
     "grunt-contrib-jshint": "~0.10.0",
-    "grunt-dev-update": "~0.5.6",
+    "grunt-dev-update": "~0.5.7",
     "grunt-githooks": "~0.3.1",
     "grunt-trimtrailingspaces": "~0.4.0",
     "clean-css": "~2.1.8",
-    "grunt-available-tasks": "~0.5.0"
+    "grunt-available-tasks": "~0.5.0",
+    "grunt-newer": "~0.7.0",
+    "grunt-styledocco": "~0.1.2"
   }
 }
