@@ -22,6 +22,7 @@
     "clean-css": "2.1.8",
     "grunt-available-tasks": "0.5.0",
     "grunt-newer": "0.7.0",
-    "grunt-styledocco": "0.1.2"
+    "grunt-styledocco": "0.1.2",
+    "grunt-conventional-changelog": "1.1.0"
   }
 }
