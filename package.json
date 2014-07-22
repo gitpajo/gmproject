@@ -2,9 +2,14 @@
   "name": "pokus",
   "version": "1.0.0-dev",
   "description": "pokus hokus",
-  "main": "index.php",
+  "homepage": "https://github.com/gitpajo/gmProject",
+  "main": "grunfile.js",
   "author": "pavel",
   "license": "BSD-2-Clause",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gitpajo/gmProject"
+  },
   "devDependencies": {
     "grunt": "0.4.5",
     "grunt-contrib-uglify": "0.5.0",
@@ -25,6 +30,7 @@
     "grunt-styledocco": "0.1.2",
     "grunt-conventional-changelog": "1.1.0",
     "grunt-datauri-variables": "0.4.0",
-    "grunt-shell": "0.7.0"
+    "grunt-shell": "0.7.0",
+    "load-grunt-tasks": "0.6.0"
   }
 }
