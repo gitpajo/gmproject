@@ -1,0 +1,24 @@
+{
+  "name": "gm",
+  "version": "1.1.0",
+  "authors": [
+    "jorda@wo.cz>"
+  ],
+  "description": "popis",
+  "license": "MIT",
+  "homepage": "index.php",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "appPath": "public",
+  "devDependencies": {
+    "jquery": "2.1.0",
+    "angular": "1.2.22",
+    "modernizr": "2.8.3"
+  }
+}
