@@ -24,13 +24,13 @@
     "grunt-dev-update": "0.6.1",
     "grunt-githooks": "0.3.1",
     "grunt-trimtrailingspaces": "0.4.0",
-    "clean-css": "2.2.14",
+    "clean-css": "2.2.15",
     "grunt-available-tasks": "0.5.0",
     "grunt-newer": "0.7.0",
     "grunt-styledocco": "0.1.4",
     "grunt-conventional-changelog": "1.1.0",
     "grunt-datauri-variables": "0.4.0",
-    "grunt-shell": "1.0.1",
+    "grunt-shell": "1.1.1",
     "load-grunt-tasks": "0.6.0"
   }
 }
