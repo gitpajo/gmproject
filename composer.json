@@ -1,6 +1,6 @@
 {
     "name": "gitpajo/gmproject",
-    "description": "A short description of what your package does",
+    "description": "Urceno pouze pro testovani a zavislosti",
     "license": "MIT",
     "require-dev": {
         "phpunit/phpunit": "4.2.*",
