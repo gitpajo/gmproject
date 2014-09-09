@@ -1,4 +1,7 @@
 {
+    "name": "gitpajo/gmproject",
+    "description": "A short description of what your package does",
+    "license": "MIT",
     "require-dev": {
         "phpunit/phpunit": "4.2.*",
         "apigen/apigen": "2.8.*",
