@@ -1,12 +1,17 @@
 {
-    "name": "gitpajo/gmproject",
-    "description": "Urceno pouze pro testovani a zavislosti",
-    "license": "MIT",
-    "require-dev": {
-        "phpunit/phpunit": "4.2.*",
-        "apigen/apigen": "2.8.1",
-        "phpmd/phpmd" : "2.*",
-        "squizlabs/php_codesniffer": "1.*",
-        "phpunit/phpunit-dom-assertions": "1.0.*@dev"
-   }
+  "name": "gitpajo/gmproject",
+  "description": "Urceno pouze pro testovani a zavislosti",
+  "license": "MIT",
+  "require-dev": {
+    "phpunit/phpunit": "4.2.*",
+    "apigen/apigen": "2.8.1",
+    "phpmd/phpmd": "2.*",
+    "squizlabs/php_codesniffer": "1.*",
+    "phpunit/phpunit-dom-assertions": "1.0.*@dev"
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "1.0.x-dev"
+    }
+  }
 }
