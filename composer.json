@@ -2,7 +2,7 @@
   "name": "gitpajo/gmproject",
   "description": "Urceno pouze pro testovani a zavislosti",
   "license": "MIT",
-  "require-dev": {
+  "require": {
     "phpunit/phpunit": "4.2.*",
     "apigen/apigen": "2.8.1",
     "phpmd/phpmd": "2.*",
@@ -11,7 +11,7 @@
   },
   "extra": {
     "branch-alias": {
-      "dev-master": "1.0.x-dev"
+      "dev-master": "1.1.x-dev"
     }
   }
 }
