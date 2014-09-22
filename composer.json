@@ -7,7 +7,9 @@
     "apigen/apigen": "2.8.3",
     "phpmd/phpmd": "2.*",
     "squizlabs/php_codesniffer": "1.*",
-    "phpunit/phpunit-dom-assertions": "1.0.*@dev"
+    "phpunit/phpunit-dom-assertions": "1.0.*@dev",
+    "leafo/lessphp": "0.4.0",
+    "phpmailer/phpmailer": "5.2.8"
   },
   "extra": {
     "branch-alias": {
