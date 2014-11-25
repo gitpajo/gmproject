@@ -3,13 +3,13 @@
   "description": "Urceno pouze pro testovani a zavislosti",
   "license": "MIT",
   "require": {
-    "phpunit/phpunit": "4.2.*",
+    "phpunit/phpunit": "4.3.5",
     "apigen/apigen": "2.8.4",
     "phpmd/phpmd": "2.*",
     "squizlabs/php_codesniffer": "1.*",
     "phpunit/phpunit-dom-assertions": "1.0.*@dev",
     "leafo/lessphp": "0.4.0",
-    "phpmailer/phpmailer": "5.2.8"
+    "phpmailer/phpmailer": "5.2.9"
   },
   "extra": {
     "branch-alias": {
