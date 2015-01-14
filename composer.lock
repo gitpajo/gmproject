@@ -736,16 +736,16 @@
         },
         {
             "name": "nette/application",
-            "version": "v2.2.3",
+            "version": "v2.2.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/nette/application.git",
-                "reference": "0c5280fa75bd237afd179b50961cee2de8e8e32a"
+                "reference": "093807c1afdd27378d45684aaf531a85400a07a0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/nette/application/zipball/0c5280fa75bd237afd179b50961cee2de8e8e32a",
-                "reference": "0c5280fa75bd237afd179b50961cee2de8e8e32a",
+                "url": "https://api.github.com/repos/nette/application/zipball/093807c1afdd27378d45684aaf531a85400a07a0",
+                "reference": "093807c1afdd27378d45684aaf531a85400a07a0",
                 "shasum": ""
             },
             "require": {
@@ -761,7 +761,7 @@
                 "nette/nette": "<2.2"
             },
             "require-dev": {
-                "latte/latte": "~2.2.2",
+                "latte/latte": "~2.2.3",
                 "nette/forms": "~2.2",
                 "nette/tester": "~1.3"
             },
@@ -792,7 +792,7 @@
             ],
             "description": "Nette Application MVC Component",
             "homepage": "http://nette.org",
-            "time": "2014-11-05 01:37:42"
+            "time": "2014-12-30 01:51:18"
         },
         {
             "name": "nette/bootstrap",
@@ -960,16 +960,16 @@
         },
         {
             "name": "nette/di",
-            "version": "v2.2.2",
+            "version": "v2.2.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/nette/di.git",
-                "reference": "236f386f3f6fdf944e2eaa4bfe61e034319f4f74"
+                "reference": "ff566727e931d3a7af0d6c568db7dd63bc1c2eaf"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/nette/di/zipball/236f386f3f6fdf944e2eaa4bfe61e034319f4f74",
-                "reference": "236f386f3f6fdf944e2eaa4bfe61e034319f4f74",
+                "url": "https://api.github.com/repos/nette/di/zipball/ff566727e931d3a7af0d6c568db7dd63bc1c2eaf",
+                "reference": "ff566727e931d3a7af0d6c568db7dd63bc1c2eaf",
                 "shasum": ""
             },
             "require": {
@@ -1009,20 +1009,20 @@
             ],
             "description": "Nette Dependency Injection Component",
             "homepage": "http://nette.org",
-            "time": "2014-11-08 17:50:39"
+            "time": "2015-01-06 20:46:47"
         },
         {
             "name": "nette/finder",
-            "version": "v2.2.0",
+            "version": "v2.2.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/nette/finder.git",
-                "reference": "ab0d08478952e754f21b2e325d6703aa77d61b72"
+                "reference": "e3032d4b84abe4175b4f46067a2e3c70dfc760f1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/nette/finder/zipball/ab0d08478952e754f21b2e325d6703aa77d61b72",
-                "reference": "ab0d08478952e754f21b2e325d6703aa77d61b72",
+                "url": "https://api.github.com/repos/nette/finder/zipball/e3032d4b84abe4175b4f46067a2e3c70dfc760f1",
+                "reference": "e3032d4b84abe4175b4f46067a2e3c70dfc760f1",
                 "shasum": ""
             },
             "require": {
@@ -1059,7 +1059,7 @@
             ],
             "description": "Nette Finder: Files Searching",
             "homepage": "http://nette.org",
-            "time": "2014-06-24 11:22:41"
+            "time": "2014-12-20 14:38:52"
         },
         {
             "name": "nette/http",
@@ -1170,16 +1170,16 @@
         },
         {
             "name": "nette/neon",
-            "version": "v2.2.3",
+            "version": "v2.2.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/nette/neon.git",
-                "reference": "3b28bcb3170df6db15c106cc0f7a821818b0d244"
+                "reference": "6a0ac32bd931887769d827778f974f009cb7fc84"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/nette/neon/zipball/3b28bcb3170df6db15c106cc0f7a821818b0d244",
-                "reference": "3b28bcb3170df6db15c106cc0f7a821818b0d244",
+                "url": "https://api.github.com/repos/nette/neon/zipball/6a0ac32bd931887769d827778f974f009cb7fc84",
+                "reference": "6a0ac32bd931887769d827778f974f009cb7fc84",
                 "shasum": ""
             },
             "require": {
@@ -1213,7 +1213,7 @@
             ],
             "description": "Nette NEON: parser & generator for Nette Object Notation",
             "homepage": "http://ne-on.org",
-            "time": "2014-11-08 15:36:11"
+            "time": "2015-01-04 23:08:32"
         },
         {
             "name": "nette/php-generator",
@@ -2576,17 +2576,17 @@
         },
         {
             "name": "symfony/config",
-            "version": "v2.5.8",
+            "version": "v2.5.9",
             "target-dir": "Symfony/Component/Config",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/Config.git",
-                "reference": "92f0b4c625b8c42d394b53f879d2795d84bb8c4f"
+                "reference": "c7309e33b719433d5cf3845d0b5b9608609d8c8e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/Config/zipball/92f0b4c625b8c42d394b53f879d2795d84bb8c4f",
-                "reference": "92f0b4c625b8c42d394b53f879d2795d84bb8c4f",
+                "url": "https://api.github.com/repos/symfony/Config/zipball/c7309e33b719433d5cf3845d0b5b9608609d8c8e",
+                "reference": "c7309e33b719433d5cf3845d0b5b9608609d8c8e",
                 "shasum": ""
             },
             "require": {
@@ -2620,21 +2620,21 @@
             ],
             "description": "Symfony Config Component",
             "homepage": "http://symfony.com",
-            "time": "2014-12-02 20:15:53"
+            "time": "2015-01-03 08:01:13"
         },
         {
             "name": "symfony/console",
-            "version": "v2.6.1",
+            "version": "v2.6.3",
             "target-dir": "Symfony/Component/Console",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/Console.git",
-                "reference": "ef825fd9f809d275926547c9e57cbf14968793e8"
+                "reference": "6ac6491ff60c0e5a941db3ccdc75a07adbb61476"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/Console/zipball/ef825fd9f809d275926547c9e57cbf14968793e8",
-                "reference": "ef825fd9f809d275926547c9e57cbf14968793e8",
+                "url": "https://api.github.com/repos/symfony/Console/zipball/6ac6491ff60c0e5a941db3ccdc75a07adbb61476",
+                "reference": "6ac6491ff60c0e5a941db3ccdc75a07adbb61476",
                 "shasum": ""
             },
             "require": {
@@ -2677,21 +2677,21 @@
             ],
             "description": "Symfony Console Component",
             "homepage": "http://symfony.com",
-            "time": "2014-12-02 20:19:20"
+            "time": "2015-01-06 17:50:02"
         },
         {
             "name": "symfony/css-selector",
-            "version": "v2.6.1",
+            "version": "v2.6.3",
             "target-dir": "Symfony/Component/CssSelector",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/CssSelector.git",
-                "reference": "93eb315b545b60a908271762fb4bfa1f9954b851"
+                "reference": "3f80ecc614fec68d5b4a84a0703db3fdf5ce8584"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/CssSelector/zipball/93eb315b545b60a908271762fb4bfa1f9954b851",
-                "reference": "93eb315b545b60a908271762fb4bfa1f9954b851",
+                "url": "https://api.github.com/repos/symfony/CssSelector/zipball/3f80ecc614fec68d5b4a84a0703db3fdf5ce8584",
+                "reference": "3f80ecc614fec68d5b4a84a0703db3fdf5ce8584",
                 "shasum": ""
             },
             "require": {
@@ -2728,21 +2728,21 @@
             ],
             "description": "Symfony CssSelector Component",
             "homepage": "http://symfony.com",
-            "time": "2014-12-02 20:19:20"
+            "time": "2015-01-03 08:01:59"
         },
         {
             "name": "symfony/dependency-injection",
-            "version": "v2.5.8",
+            "version": "v2.5.9",
             "target-dir": "Symfony/Component/DependencyInjection",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/DependencyInjection.git",
-                "reference": "b4afda3c24867a17f93237ac1fcce917cc9d7695"
+                "reference": "b04e6782962f8e3312274fd16fb6b37a8210a1c3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/DependencyInjection/zipball/b4afda3c24867a17f93237ac1fcce917cc9d7695",
-                "reference": "b4afda3c24867a17f93237ac1fcce917cc9d7695",
+                "url": "https://api.github.com/repos/symfony/DependencyInjection/zipball/b04e6782962f8e3312274fd16fb6b37a8210a1c3",
+                "reference": "b04e6782962f8e3312274fd16fb6b37a8210a1c3",
                 "shasum": ""
             },
             "require": {
@@ -2750,8 +2750,8 @@
             },
             "require-dev": {
                 "symfony/config": "~2.2",
-                "symfony/expression-language": "~2.4",
-                "symfony/yaml": "~2.0"
+                "symfony/expression-language": "~2.4,>=2.4.10",
+                "symfony/yaml": "~2.1"
             },
             "suggest": {
                 "symfony/config": "",
@@ -2785,28 +2785,28 @@
             ],
             "description": "Symfony DependencyInjection Component",
             "homepage": "http://symfony.com",
-            "time": "2014-12-02 21:48:32"
+            "time": "2015-01-05 08:51:41"
         },
         {
             "name": "symfony/dom-crawler",
-            "version": "v2.6.1",
+            "version": "v2.6.3",
             "target-dir": "Symfony/Component/DomCrawler",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/DomCrawler.git",
-                "reference": "300d449f79d74ac62b06edd05214e8dd2e635840"
+                "reference": "26a9eb302decd828990e1015afaa11b78b016073"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/DomCrawler/zipball/300d449f79d74ac62b06edd05214e8dd2e635840",
-                "reference": "300d449f79d74ac62b06edd05214e8dd2e635840",
+                "url": "https://api.github.com/repos/symfony/DomCrawler/zipball/26a9eb302decd828990e1015afaa11b78b016073",
+                "reference": "26a9eb302decd828990e1015afaa11b78b016073",
                 "shasum": ""
             },
             "require": {
                 "php": ">=5.3.3"
             },
             "require-dev": {
-                "symfony/css-selector": "~2.0"
+                "symfony/css-selector": "~2.3"
             },
             "suggest": {
                 "symfony/css-selector": ""
@@ -2838,21 +2838,21 @@
             ],
             "description": "Symfony DomCrawler Component",
             "homepage": "http://symfony.com",
-            "time": "2014-12-02 20:19:20"
+            "time": "2015-01-03 08:01:59"
         },
         {
             "name": "symfony/filesystem",
-            "version": "v2.5.8",
+            "version": "v2.5.9",
             "target-dir": "Symfony/Component/Filesystem",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/Filesystem.git",
-                "reference": "e5fc05a3a1dbb4ea0bed80fe7bd21ba3cab88c42"
+                "reference": "d3c24d7d6e9c342008d8421b2fade460311647ea"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/Filesystem/zipball/e5fc05a3a1dbb4ea0bed80fe7bd21ba3cab88c42",
-                "reference": "e5fc05a3a1dbb4ea0bed80fe7bd21ba3cab88c42",
+                "url": "https://api.github.com/repos/symfony/Filesystem/zipball/d3c24d7d6e9c342008d8421b2fade460311647ea",
+                "reference": "d3c24d7d6e9c342008d8421b2fade460311647ea",
                 "shasum": ""
             },
             "require": {
@@ -2885,21 +2885,21 @@
             ],
             "description": "Symfony Filesystem Component",
             "homepage": "http://symfony.com",
-            "time": "2014-12-02 20:15:53"
+            "time": "2015-01-03 21:04:44"
         },
         {
             "name": "symfony/options-resolver",
-            "version": "v2.6.1",
+            "version": "v2.6.3",
             "target-dir": "Symfony/Component/OptionsResolver",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/OptionsResolver.git",
-                "reference": "007d41188680f7ea78afc2d9ffea18f4274146ca"
+                "reference": "23aed23820c9c2273c405b43deee3de6c0668acd"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/OptionsResolver/zipball/007d41188680f7ea78afc2d9ffea18f4274146ca",
-                "reference": "007d41188680f7ea78afc2d9ffea18f4274146ca",
+                "url": "https://api.github.com/repos/symfony/OptionsResolver/zipball/23aed23820c9c2273c405b43deee3de6c0668acd",
+                "reference": "23aed23820c9c2273c405b43deee3de6c0668acd",
                 "shasum": ""
             },
             "require": {
@@ -2937,21 +2937,21 @@
                 "configuration",
                 "options"
             ],
-            "time": "2014-11-03 09:04:37"
+            "time": "2015-01-05 17:41:06"
         },
         {
             "name": "symfony/yaml",
-            "version": "v2.6.1",
+            "version": "v2.6.3",
             "target-dir": "Symfony/Component/Yaml",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/Yaml.git",
-                "reference": "3346fc090a3eb6b53d408db2903b241af51dcb20"
+                "reference": "82462a90848a52c2533aa6b598b107d68076b018"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/Yaml/zipball/3346fc090a3eb6b53d408db2903b241af51dcb20",
-                "reference": "3346fc090a3eb6b53d408db2903b241af51dcb20",
+                "url": "https://api.github.com/repos/symfony/Yaml/zipball/82462a90848a52c2533aa6b598b107d68076b018",
+                "reference": "82462a90848a52c2533aa6b598b107d68076b018",
                 "shasum": ""
             },
             "require": {
@@ -2984,7 +2984,7 @@
             ],
             "description": "Symfony Yaml Component",
             "homepage": "http://symfony.com",
-            "time": "2014-12-02 20:19:20"
+            "time": "2015-01-03 15:33:07"
         },
         {
             "name": "tracy/tracy",
