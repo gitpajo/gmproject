@@ -18,7 +18,7 @@
   "appPath": "public",
   "devDependencies": {
     "jquery": "2.1.4",
-    "angular": "1.4.0",
+    "angular": "1.4.1",
     "modernizr": "2.8.3",
     "jquery.ui": "1.11.4"
   }
