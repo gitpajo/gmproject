@@ -1160,16 +1160,16 @@
         },
         {
             "name": "symfony/css-selector",
-            "version": "v2.8.1",
+            "version": "v2.8.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/css-selector.git",
-                "reference": "eaa3320e32f09a01dc432c6efbe8051aee59cfef"
+                "reference": "ac06d8173bd80790536c0a4a634a7d705b91f54f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/css-selector/zipball/eaa3320e32f09a01dc432c6efbe8051aee59cfef",
-                "reference": "eaa3320e32f09a01dc432c6efbe8051aee59cfef",
+                "url": "https://api.github.com/repos/symfony/css-selector/zipball/ac06d8173bd80790536c0a4a634a7d705b91f54f",
+                "reference": "ac06d8173bd80790536c0a4a634a7d705b91f54f",
                 "shasum": ""
             },
             "require": {
@@ -1209,20 +1209,20 @@
             ],
             "description": "Symfony CssSelector Component",
             "homepage": "https://symfony.com",
-            "time": "2015-12-05 17:37:59"
+            "time": "2016-01-03 15:33:41"
         },
         {
             "name": "symfony/dom-crawler",
-            "version": "v2.8.1",
+            "version": "v2.8.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/dom-crawler.git",
-                "reference": "a2712aff8b250d9601ad6bd23a2ff82a12730e8e"
+                "reference": "650d37aacb1fa0dcc24cced483169852b3a0594e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/dom-crawler/zipball/a2712aff8b250d9601ad6bd23a2ff82a12730e8e",
-                "reference": "a2712aff8b250d9601ad6bd23a2ff82a12730e8e",
+                "url": "https://api.github.com/repos/symfony/dom-crawler/zipball/650d37aacb1fa0dcc24cced483169852b3a0594e",
+                "reference": "650d37aacb1fa0dcc24cced483169852b3a0594e",
                 "shasum": ""
             },
             "require": {
@@ -1265,7 +1265,7 @@
             ],
             "description": "Symfony DomCrawler Component",
             "homepage": "https://symfony.com",
-            "time": "2015-12-23 17:16:29"
+            "time": "2016-01-03 15:33:41"
         },
         {
             "name": "symfony/polyfill-mbstring",
