@@ -9,7 +9,7 @@
     "itbz/fpdf": "~1.7"
   },
   "require-dev": {
-    "php": "<=5.4.12",
+    "php": ">=5.4.12",
     "phpunit/phpunit": "4.*",
     "phpunit/phpunit-dom-assertions": "1.0.*@dev"
   },  
