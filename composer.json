@@ -11,7 +11,9 @@
   "require-dev": {
     "php": ">=5.4.12",
     "phpunit/phpunit": "4.*",
-    "phpunit/phpunit-dom-assertions": "1.0.*@dev"
+    "phpunit/phpunit-dom-assertions": "1.0.*@dev",
+    "phpdocumentor/reflection-docblock": "2.0.4",
+    "lstrojny/phpunit-clever-and-smart": "0.*"
   },
   "extra": {
     "branch-alias": {
