@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "6f86a840adea7d5f096666de71372166",
-    "content-hash": "a781ceae00d88b8f77cdeac827ec1ddb",
+    "hash": "b338db3666dd259f3072c06f4dd0f5c3",
+    "content-hash": "3b5552f7072dd3dd1d472c851b6af5fe",
     "packages": [
         {
             "name": "itbz/fpdf",
@@ -251,6 +251,47 @@
                 "instantiate"
             ],
             "time": "2015-06-14 21:17:01"
+        },
+        {
+            "name": "lstrojny/phpunit-clever-and-smart",
+            "version": "0.5.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/lstrojny/phpunit-clever-and-smart.git",
+                "reference": "f1766f3fd77c0fbc9093261e5f8e664b65fa11d9"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/lstrojny/phpunit-clever-and-smart/zipball/f1766f3fd77c0fbc9093261e5f8e664b65fa11d9",
+                "reference": "f1766f3fd77c0fbc9093261e5f8e664b65fa11d9",
+                "shasum": ""
+            },
+            "require": {
+                "ext-sqlite3": "*",
+                "phpunit/phpunit": "*"
+            },
+            "require-dev": {
+                "athletic/athletic": "~0.1",
+                "symfony/process": "2.*"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-0": {
+                    "PHPUnit\\Runner\\CleverAndSmart": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Lars Strojny",
+                    "email": "lars@strojny.net"
+                }
+            ],
+            "description": "A clever test runner for PHPUnit",
+            "time": "2014-03-13 17:41:39"
         },
         {
             "name": "phpdocumentor/reflection-docblock",
@@ -1165,7 +1206,7 @@
         },
         {
             "name": "symfony/css-selector",
-            "version": "v2.8.11",
+            "version": "v2.8.13",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/css-selector.git",
@@ -1218,16 +1259,16 @@
         },
         {
             "name": "symfony/dom-crawler",
-            "version": "v2.8.11",
+            "version": "v2.8.13",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/dom-crawler.git",
-                "reference": "aac03b7ea2a7adff10a3599d614e79e6101230ab"
+                "reference": "a94f3fe6f179d6453e5ed8188cf4bfdf933d85f4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/dom-crawler/zipball/aac03b7ea2a7adff10a3599d614e79e6101230ab",
-                "reference": "aac03b7ea2a7adff10a3599d614e79e6101230ab",
+                "url": "https://api.github.com/repos/symfony/dom-crawler/zipball/a94f3fe6f179d6453e5ed8188cf4bfdf933d85f4",
+                "reference": "a94f3fe6f179d6453e5ed8188cf4bfdf933d85f4",
                 "shasum": ""
             },
             "require": {
@@ -1270,7 +1311,7 @@
             ],
             "description": "Symfony DomCrawler Component",
             "homepage": "https://symfony.com",
-            "time": "2016-07-30 07:20:35"
+            "time": "2016-10-18 15:35:45"
         },
         {
             "name": "symfony/polyfill-mbstring",
@@ -1333,16 +1374,16 @@
         },
         {
             "name": "symfony/yaml",
-            "version": "v3.1.4",
+            "version": "v3.1.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/yaml.git",
-                "reference": "f291ed25eb1435bddbe8a96caaef16469c2a092d"
+                "reference": "7ff51b06c6c3d5cc6686df69004a42c69df09e27"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/yaml/zipball/f291ed25eb1435bddbe8a96caaef16469c2a092d",
-                "reference": "f291ed25eb1435bddbe8a96caaef16469c2a092d",
+                "url": "https://api.github.com/repos/symfony/yaml/zipball/7ff51b06c6c3d5cc6686df69004a42c69df09e27",
+                "reference": "7ff51b06c6c3d5cc6686df69004a42c69df09e27",
                 "shasum": ""
             },
             "require": {
@@ -1378,7 +1419,7 @@
             ],
             "description": "Symfony Yaml Component",
             "homepage": "https://symfony.com",
-            "time": "2016-09-02 02:12:52"
+            "time": "2016-10-24 18:41:13"
         }
     ],
     "aliases": [],
