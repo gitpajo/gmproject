@@ -9,16 +9,16 @@
     "packages": [
         {
             "name": "itbz/fpdf",
-            "version": "1.7.2",
+            "version": "1.7.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/hanneskod/fpdf.git",
-                "reference": "06d02a7bf227a62d37691a4e7e9c3a35efcb41c3"
+                "reference": "63340096907ef7525a9002d1ae3d0fd1ff376a6d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hanneskod/fpdf/zipball/06d02a7bf227a62d37691a4e7e9c3a35efcb41c3",
-                "reference": "06d02a7bf227a62d37691a4e7e9c3a35efcb41c3",
+                "url": "https://api.github.com/repos/hanneskod/fpdf/zipball/63340096907ef7525a9002d1ae3d0fd1ff376a6d",
+                "reference": "63340096907ef7525a9002d1ae3d0fd1ff376a6d",
                 "shasum": ""
             },
             "require": {
@@ -36,7 +36,7 @@
             ],
             "description": "Unofficial PSR-0 compliant version of the FPDF library",
             "homepage": "http://www.fpdf.org/",
-            "time": "2013-12-27 14:18:15"
+            "time": "2016-05-27 09:02:54"
         },
         {
             "name": "leafo/lessphp",
@@ -650,16 +650,16 @@
         },
         {
             "name": "phpunit/phpunit",
-            "version": "4.8.31",
+            "version": "4.8.34",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sebastianbergmann/phpunit.git",
-                "reference": "98b2b39a520766bec663ff5b7ff1b729db9dbfe3"
+                "reference": "7eb45205d27edd94bd2b3614085ea158bd1e2bca"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/phpunit/zipball/98b2b39a520766bec663ff5b7ff1b729db9dbfe3",
-                "reference": "98b2b39a520766bec663ff5b7ff1b729db9dbfe3",
+                "url": "https://api.github.com/repos/sebastianbergmann/phpunit/zipball/7eb45205d27edd94bd2b3614085ea158bd1e2bca",
+                "reference": "7eb45205d27edd94bd2b3614085ea158bd1e2bca",
                 "shasum": ""
             },
             "require": {
@@ -718,7 +718,7 @@
                 "testing",
                 "xunit"
             ],
-            "time": "2016-12-09 02:45:31"
+            "time": "2017-01-26 16:15:36"
         },
         {
             "name": "phpunit/phpunit-dom-assertions",
@@ -835,16 +835,16 @@
         },
         {
             "name": "sebastian/comparator",
-            "version": "1.2.2",
+            "version": "1.2.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sebastianbergmann/comparator.git",
-                "reference": "6a1ed12e8b2409076ab22e3897126211ff8b1f7f"
+                "reference": "2b7424b55f5047b47ac6e5ccb20b2aea4011d9be"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/comparator/zipball/6a1ed12e8b2409076ab22e3897126211ff8b1f7f",
-                "reference": "6a1ed12e8b2409076ab22e3897126211ff8b1f7f",
+                "url": "https://api.github.com/repos/sebastianbergmann/comparator/zipball/2b7424b55f5047b47ac6e5ccb20b2aea4011d9be",
+                "reference": "2b7424b55f5047b47ac6e5ccb20b2aea4011d9be",
                 "shasum": ""
             },
             "require": {
@@ -895,7 +895,7 @@
                 "compare",
                 "equality"
             ],
-            "time": "2016-11-19 09:18:40"
+            "time": "2017-01-29 09:50:25"
         },
         {
             "name": "sebastian/diff",
