@@ -11,9 +11,10 @@
   "require-dev": {
     "php": ">=5.4.12",
     "phpunit/phpunit": "4.*",
-    "phpunit/phpunit-dom-assertions": "1.0.*@dev",
+    "phpunit/phpunit-dom-assertions": "2.*",
     "phpdocumentor/reflection-docblock": "2.0.4",
-    "lstrojny/phpunit-clever-and-smart": "0.*"
+    "lstrojny/phpunit-clever-and-smart": "0.*",
+    "reactivex/rxphp": "^1.5"
   },
   "extra": {
     "branch-alias": {
