@@ -14,7 +14,8 @@
     "phpunit/phpunit-dom-assertions": "2.*",
     "phpdocumentor/reflection-docblock": "2.0.4",
     "lstrojny/phpunit-clever-and-smart": "0.*",
-    "reactivex/rxphp": "^1.5"
+    "reactivex/rxphp": "2.*",
+    "react/event-loop": "^0.4.2"
   },
   "extra": {
     "branch-alias": {
