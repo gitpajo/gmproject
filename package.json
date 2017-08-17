@@ -11,15 +11,16 @@
     "url": "https://github.com/gitpajo/gmproject"
   },
   "devDependencies": {
-    "babel-cli": "6.24.1",
+    "babel-cli": "6.26.0",
     "babel-preset-es2015": "6.24.1",
     "bash-color": "0.0.4",
     "chalk": "2.1.0",
+    "chart.js": "2.6.0",
     "colors": "1.1.2",
     "eslint-grunt": "1.0.0",
     "grunt": "1.0.1",
     "grunt-available-tasks": "0.6.3",
-    "grunt-babel": "6.0.0",
+    "grunt-babel": "7.0.0",
     "grunt-contrib-clean": "1.1.0",
     "grunt-contrib-concat": "1.0.1",
     "grunt-contrib-copy": "1.0.0",
@@ -38,12 +39,11 @@
     "grunt-shell": "2.1.0",
     "grunt-styledocco": "0.3.0",
     "grunt-trimtrailingspaces": "2.3.1",
+    "jquery": "3.2.1",
+    "jquery-ui": "1.12.1",
     "load-grunt-config": "0.19.2",
     "load-grunt-tasks": "3.5.2",
-    "time-grunt": "1.4.0",
-    "chart.js": "2.6.0",
-    "jquery": "3.2.1",
-    "jquery-ui": "1.12.1"
+    "time-grunt": "1.4.0"
   },
   "dependencies": {},
   "scripts": {

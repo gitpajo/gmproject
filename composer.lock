@@ -948,16 +948,16 @@
         },
         {
             "name": "reactivex/rxphp",
-            "version": "2.0.2",
+            "version": "2.0.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/ReactiveX/RxPHP.git",
-                "reference": "7f5f669850cc035d78f7dafb45fd797fe0ba9e7d"
+                "reference": "cc84689ab8061fafbfa58078c60f865155ac6c5f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ReactiveX/RxPHP/zipball/7f5f669850cc035d78f7dafb45fd797fe0ba9e7d",
-                "reference": "7f5f669850cc035d78f7dafb45fd797fe0ba9e7d",
+                "url": "https://api.github.com/repos/ReactiveX/RxPHP/zipball/cc84689ab8061fafbfa58078c60f865155ac6c5f",
+                "reference": "cc84689ab8061fafbfa58078c60f865155ac6c5f",
                 "shasum": ""
             },
             "require": {
@@ -966,7 +966,7 @@
             },
             "require-dev": {
                 "phpunit/phpcov": "^3.1",
-                "phpunit/phpunit": "^5.5",
+                "phpunit/phpunit": "^5.7",
                 "react/event-loop": "^0.4.2",
                 "satooshi/php-coveralls": "~1.0"
             },
@@ -1009,7 +1009,7 @@
                 "reactive",
                 "rx"
             ],
-            "time": "2017-05-21T01:48:34+00:00"
+            "time": "2017-08-16T23:27:59+00:00"
         },
         {
             "name": "sebastian/comparator",
@@ -1494,16 +1494,16 @@
         },
         {
             "name": "symfony/polyfill-mbstring",
-            "version": "v1.4.0",
+            "version": "v1.5.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-mbstring.git",
-                "reference": "f29dca382a6485c3cbe6379f0c61230167681937"
+                "reference": "7c8fae0ac1d216eb54349e6a8baa57d515fe8803"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/polyfill-mbstring/zipball/f29dca382a6485c3cbe6379f0c61230167681937",
-                "reference": "f29dca382a6485c3cbe6379f0c61230167681937",
+                "url": "https://api.github.com/repos/symfony/polyfill-mbstring/zipball/7c8fae0ac1d216eb54349e6a8baa57d515fe8803",
+                "reference": "7c8fae0ac1d216eb54349e6a8baa57d515fe8803",
                 "shasum": ""
             },
             "require": {
@@ -1515,7 +1515,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "1.4-dev"
+                    "dev-master": "1.5-dev"
                 }
             },
             "autoload": {
@@ -1549,7 +1549,7 @@
                 "portable",
                 "shim"
             ],
-            "time": "2017-06-09T14:24:12+00:00"
+            "time": "2017-06-14T15:44:48+00:00"
         },
         {
             "name": "symfony/yaml",
