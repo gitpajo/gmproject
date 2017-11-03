@@ -15,7 +15,7 @@
     "phpdocumentor/reflection-docblock": "2.0.4",
     "lstrojny/phpunit-clever-and-smart": "0.*",
     "reactivex/rxphp": "2.*",
-    "react/event-loop": "^0.4.2"
+    "react/event-loop": "0.4.2"
   },
   "extra": {
     "branch-alias": {
